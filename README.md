@@ -1,16 +1,14 @@
-### Hi there 👋
+ Hi there 👋, I'm Denise Wexman
+     Full Stack Developer 
 
-<!--
-**dwexman/dwexman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Passionate about programming and technology. I aspire to constantly improve and continue learning various programming languages to contribute with my knowledge.
+Actually working as a trainee at Remora On Fire, a new company engaged in the development of a new HR software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on https://github.com/dwexman/Dashboard-with-login
+
+
+- 📫 How to reach me: https://www.linkedin.com/in/dwexman
+                      wexmandenise@gmail.com  
+
+
