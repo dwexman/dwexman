@@ -8,8 +8,13 @@ Actually working as a trainee at Remora On Fire, a new company engaged in the de
 - 🔭 I’m currently working on https://github.com/dwexman/Dashboard-with-login
 
 
-- 📫 How to reach me: https://www.linkedin.com/in/dwexman
-                      wexmandenise@gmail.com
+- 📫 How to reach me: wexmandenise@gmail.com
+
+  <h3 align="left">Reach Me:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt:linkedin width="80" height="80"/>
+  <p>https://www.linkedin.com/in/dwexman</p>
+  
+
 
 
 
