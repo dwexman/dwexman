@@ -14,6 +14,6 @@ Actually working as a trainee at Remora On Fire, a new company engaged in the de
 
 
   <h3 align="left">Languages and Tools:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" / widht: "40px", height: "40px">
           
 
